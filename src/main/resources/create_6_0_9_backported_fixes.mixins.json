@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.mrgazdag.create609backportedfixes.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "create_6_0_9_backported_fixes.mixins.json.refmap.json",
+  "mixins": [
+    "SchematicPrinterMixin",
+    "XaeroTrainMapMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
