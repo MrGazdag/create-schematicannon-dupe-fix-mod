@@ -82,4 +82,4 @@ description='''${mod_description}'''
 #openGLVersion="[3.2,)"
 
 [[mixins]]
-config="create_schematicannon_dupe_fix.mixins.json"
+config="create_6_0_9_backported_fixes.mixins.json"
