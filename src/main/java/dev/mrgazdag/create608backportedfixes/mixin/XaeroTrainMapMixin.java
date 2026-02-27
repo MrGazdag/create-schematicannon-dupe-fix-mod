@@ -1,4 +1,4 @@
-package dev.mrgazdag.create609backportedfixes.mixin;
+package dev.mrgazdag.create608backportedfixes.mixin;
 
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

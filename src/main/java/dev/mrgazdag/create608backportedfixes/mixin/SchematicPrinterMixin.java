@@ -1,4 +1,4 @@
-package dev.mrgazdag.create609backportedfixes.mixin;
+package dev.mrgazdag.create608backportedfixes.mixin;
 
 import com.llamalad7.mixinextras.sugar.Local;
 import com.simibubi.create.content.schematics.SchematicPrinter;

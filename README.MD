@@ -1,4 +1,4 @@
-# Backported Create 6.0.9 fixes for MC 1.20.1
+# Backported fixes for Create 6.0.8 for MC 1.20.1
 [![Modrinth](https://img.shields.io/badge/1.1.0-green?logo=modrinth&label=Modrinth&color=%2300AF5C)](https://modrinth.com/mod/create-6.0.8-schematicannon-dupe-fix)
 [![Static Badge](https://img.shields.io/badge/1.1.0-orange?logo=curseforge&label=CurseForge)](https://www.curseforge.com/minecraft/mc-mods/create-6-0-8-schematicannon-dupe-fix)
 
